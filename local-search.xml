@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>《墨菲定律》阅读理解摘抄</title>
+    <link href="/2021/01/03/read-Murphy/"/>
+    <url>/2021/01/03/read-Murphy/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>国外书籍</tag>
+      
+      <tag>阅读</tag>
+      
+      <tag>读后感</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Alook浏览器(ios)使用手册</title>
+    <link href="/2020/02/29/ios-alook/"/>
+    <url>/2020/02/29/ios-alook/</url>
+    
+    <content type="html"><![CDATA[<h1 id="官方说明书"><a href="#官方说明书" class="headerlink" title="官方说明书"></a>官方说明书</h1><ul><li><a href="https://zhuanlan.zhihu.com/p/52651135" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/p/52651135</a></li></ul><h1 id="Scheme"><a href="#Scheme" class="headerlink" title="Scheme"></a>Scheme</h1><ul><li><p>启动: <code>Alook://</code></p></li><li><p>搜索或者打开URL：<code>Alook://</code>后面接搜索的内容或要打开的链接</p></li><li><p>打开书签：<code>Alook://Bookmarks</code></p></li><li><p>打开图书馆：<code>Alook://Books</code></p></li><li><p>开始搜索：<code>Alook://Search</code></p></li><li><p>扫描二维码：<code>Alook://QRCode</code></p></li><li><p>新建下载: <code>Alook://download/</code>后面接下载的链接</p></li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>ios</tag>
+      
+      <tag>浏览器</tag>
+      
+      <tag>指南</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>在hexo中使用git submodule管理主题</title>
+    <link href="/2020/02/18/how-to-use-git-submodule-to-manage-hexo-theme/"/>
+    <url>/2020/02/18/how-to-use-git-submodule-to-manage-hexo-theme/</url>
+    
+    <content type="html"><![CDATA[<p>来自<a href="https://juejin.im/post/5c2e22fcf265da615d72c596" target="_blank" rel="noopener">简书的教程</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>hexo</tag>
+      
+      <tag>git</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>JSBox脚本《jsTool》</title>
+    <link href="/2020/02/17/jsbox-jstool/"/>
+    <url>/2020/02/17/jsbox-jstool/</url>
+    
+    <content type="html"><![CDATA[<h1 id="jsTool"><a href="#jsTool" class="headerlink" title="jsTool"></a>jsTool</h1><h3 id="自用工具箱"><a href="#自用工具箱" class="headerlink" title="自用工具箱"></a>自用工具箱</h3><h2 id="适用平台：iOS-13-0-0"><a href="#适用平台：iOS-13-0-0" class="headerlink" title="适用平台：iOS 13.0.0+"></a>适用平台：iOS 13.0.0+</h2><h2 id="适用软件：JSBox-1-55-0"><a href="#适用软件：JSBox-1-55-0" class="headerlink" title="适用软件：JSBox 1.55.0+"></a>适用软件：<a href="https://itunes.apple.com/cn/app/id1312014438" target="_blank" rel="noopener">JSBox</a> 1.55.0+</h2><h2 id="安装方式"><a href="#安装方式" class="headerlink" title="安装方式"></a>安装方式</h2><ul><li>暂未提供安装包</li></ul><h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><ul><li><a href="https://github.com/zhuangzhihao/JSBox/tree/master/apps/jsTool" target="_blank" rel="noopener">Github</a></li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>JSBox脚本《Pneumonia2020》</title>
+    <link href="/2020/02/17/jsbox-pneumonia2020/"/>
+    <url>/2020/02/17/jsbox-pneumonia2020/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Pneumonia2020"><a href="#Pneumonia2020" class="headerlink" title="Pneumonia2020"></a>Pneumonia2020</h1><h3 id="用于查看2020年武汉新型冠状肺炎病毒，数据来自互联网"><a href="#用于查看2020年武汉新型冠状肺炎病毒，数据来自互联网" class="headerlink" title="用于查看2020年武汉新型冠状肺炎病毒，数据来自互联网"></a>用于查看2020年武汉新型冠状肺炎病毒，数据来自互联网</h3><h2 id="适用平台：iOS-11-0-0"><a href="#适用平台：iOS-11-0-0" class="headerlink" title="适用平台：iOS 11.0.0+"></a>适用平台：iOS 11.0.0+</h2><h2 id="适用软件：JSBox-1-60-0"><a href="#适用软件：JSBox-1-60-0" class="headerlink" title="适用软件：JSBox 1.60.0+"></a>适用软件：<a href="https://itunes.apple.com/cn/app/id1312014438" target="_blank" rel="noopener">JSBox</a> 1.60.0+</h2><h2 id="安装方式"><a href="#安装方式" class="headerlink" title="安装方式"></a>安装方式</h2><ol><li><p><a href="https://xteko.com/redir?name=Pneumonia2020&url=https%3a%2f%2fcdn.jsdelivr.net%2fgh%2fzhuangzhihao%2fjsbox%40master%2fdownload%2fPneumonia2020.box" target="_blank" rel="noopener">点击链接安装</a></p></li><li><p>使用iOS自带相机扫描二维码安装</p></li></ol><p><img src="https://cdn.jsdelivr.net/gh/zhuangzhihao/jsbox@master/apps/Pneumonia2020/images/Qrcode.png" srcset="/img/loading.gif" alt="二维码"></p><h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><ul><li><a href="https://github.com/zhuangzhihao/JSBox/tree/master/apps/Pneumonia2020" target="_blank" rel="noopener">Github</a></li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Termux开箱笔记</title>
+    <link href="/2019/09/26/start-to-use-termux/"/>
+    <url>/2019/09/26/start-to-use-termux/</url>
+    
+    <content type="html"><![CDATA[<h2 id="Termux下载地址"><a href="#Termux下载地址" class="headerlink" title="Termux下载地址"></a>Termux下载地址</h2><ul><li><a href="https://termux.com/" target="_blank" rel="noopener">官网</a></li><li><a href="https://play.google.com/store/apps/details?id=com.termux" target="_blank" rel="noopener">从Google play下载</a></li></ul><h2 id="更换为清华镜像源"><a href="#更换为清华镜像源" class="headerlink" title="更换为清华镜像源"></a>更换为清华镜像源</h2><p><a href="https://mirror.tuna.tsinghua.edu.cn/help/termux/" target="_blank" rel="noopener">清华镜像源</a></p><ol><li>复制粘贴下面命令更换</li></ol><pre><code class="hljs shell">sed -i 's@^\(deb.*stable main\)$@#\1\ndeb https://mirrors.tuna.tsinghua.edu.cn/termux stable main@' $PREFIX/etc/apt/sources.list</code></pre><ol start="2"><li>刷新缓存并更新</li></ol><pre><code class="hljs shell">pkg up</code></pre><h2 id="获取Android储存权限"><a href="#获取Android储存权限" class="headerlink" title="获取Android储存权限"></a>获取Android储存权限</h2><pre><code class="hljs shell">termux-setup-storage</code></pre><h2 id="美化终端"><a href="#美化终端" class="headerlink" title="美化终端"></a>美化终端</h2><ol><li>安装oh-my-zsh</li></ol><pre><code class="hljs shell">pkg i curl -y &amp;&amp; sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)"</code></pre><p>脚本运行后先后有如下两个选项：分别选择背景色和字体</p><p>想要继续更改挑选配色的话,继续运行脚本来再次选择:</p><pre><code class="hljs shell">~/termux-ohmyzsh/install.sh</code></pre><p>重启Termux会话后生效</p><ol start="2"><li>设置oh-my-zsh的主题为随机</li></ol><p>编辑配置文件</p><pre><code class="hljs shell">nano ~/.zshrc</code></pre><p>将<code>ZSH_THEME</code>改为<code>random</code></p><p>重启Termux会话生效</p><ol start="3"><li>更改Termux底端快捷键</li></ol><p>编辑配置文件</p><pre><code class="hljs shell">nano $HOME/.termux/termux.properties</code></pre><p>输入文本后保存重启Termux生效</p><pre><code class="hljs shell">extra-keys= [['ESC','/','-','HOME','UP','END','PGUP'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN']]</code></pre><h2 id="待完成…"><a href="#待完成…" class="headerlink" title="待完成…"></a>待完成…</h2>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Android</tag>
+      
+      <tag>笔记</tag>
+      
+      <tag>Termux</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Cloudflare CDN与Hexo主题「NexT」v7.4.0冲突解决方案</title>
+    <link href="/2019/09/22/about-hexo-themes-next-and-cloudflare-bug/"/>
+    <url>/2019/09/22/about-hexo-themes-next-and-cloudflare-bug/</url>
+    
+    <content type="html"><![CDATA[<p>问题：</p><ol><li>使用<code>Cloudflare</code>后使用了NexT主题的Hexo博客会出现空白页面的情况</li></ol><p>解决方法：关闭Cloudflare的Rocket Loader。<code>Speed</code>-&gt;<code>Rocket Loader</code>，关闭，解决。</p><p>解决方案来源：<a href="https://github.com/theme-next/hexo-theme-next/issues/1170" target="_blank" rel="noopener">NexT主题的issues</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>微软Excel技巧</title>
+    <link href="/2019/09/22/microsoft-excel-tips/"/>
+    <url>/2019/09/22/microsoft-excel-tips/</url>
+    
+    <content type="html"><![CDATA[<ol><li>小数四舍五入到整数</li></ol><blockquote><p>=MROUND(小数,1)</p></blockquote>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Flutter学习资料</title>
+    <link href="/2019/03/20/study-flutter/"/>
+    <url>/2019/03/20/study-flutter/</url>
+    
+    <content type="html"><![CDATA[<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ul><li><p><a href="https://mp.weixin.qq.com/s/nXWri-9dAE0mtjihT3V1Vg" target="_blank" rel="noopener">帮你整理一份快速入门Flutter的秘籍</a></p></li><li><p>…</p></li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Flutter</tag>
+      
+      <tag>笔记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>最近突然下回Farcry5，记录一下</title>
+    <link href="/2018/12/08/play-farcry5/"/>
+    <url>/2018/12/08/play-farcry5/</url>
+    
+    <content type="html"><![CDATA[<p>之前打完本体剧情后就卸载了，之后出了火星DLC玩了一下不感兴趣就又卸载了。昨晚看TGA的孤岛惊魂新作，突然想起DLC还没打呢就下载回来了。</p><h3 id="不得不说育碧让人无语的地方："><a href="#不得不说育碧让人无语的地方：" class="headerlink" title="不得不说育碧让人无语的地方："></a>不得不说育碧让人无语的地方：</h3><ol><li><p>因为商城有微交易部分，所以每次进商城都会连接服务器，就导致经常去商城想买个子弹或者卖个东西都要等加载很久</p></li><li><p>不能趴在地上，不能手动开手电筒，没有夜视仪，晚上在野外真的看不清，这游戏的手电筒是要在室内没灯才会开</p></li></ol><h2 id="2018-12-15-更新"><a href="#2018-12-15-更新" class="headerlink" title="2018/12/15 更新"></a>2018/12/15 更新</h2><p>uplay的云存档有毒，同步出错，回档回到了3天前</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>游戏</tag>
+      
+      <tag>育碧</tag>
+      
+      <tag>Steam</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>你好，世界</title>
+    <link href="/1990/01/01/hello-world/"/>
+    <url>/1990/01/01/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="hljs bash">$ hexo new <span class="hljs-string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="hljs bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="hljs bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="hljs bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
